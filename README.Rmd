@@ -87,8 +87,8 @@ Our ultimate goal for this spring is to find as many Merlin nest sites as possib
     -   ArcGIS Field Maps - for moving to points and marking points of interest
 
     -   Merlin Bird ID - has a library of bird calls, played Merlin bird calls through speaker for playback
-    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rVD8EnowIFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](https://www.youtube.com/watch?v=rVD8EnowIFo&list=PLZ2_6QlCQJ48qMw3ntyxAAvCKEJLAuSOx&index=1)
 
     -   JBL Clip 4 - small, rugged, weather resistant speaker with good audio range for performing playback
 
@@ -146,4 +146,4 @@ Attempting to capture images of Merlins on a phone and through binoculars is NOT
 
 -   Merlin. Mnbirdatlas.org. [accessed 2021 Apr 20]. <https://mnbirdatlas.org/species/merlin/>
 
--   Warkentin IG, Sodhi NS, Espie RHM, Poole AF, Oliphant LW, James PC. Merlin (Falco columbarius). Birds of the World. 2020 [accessed 2021 Apr 20]. <https://birdsoftheworld.org/bow/species/merlin/cur/introduction.> doi:10.2173/bow.merlin.01 
+-   Warkentin IG, Sodhi NS, Espie RHM, Poole AF, Oliphant LW, James PC. Merlin (Falco columbarius). Birds of the World. 2020 [accessed 2021 Apr 20]. <https://birdsoftheworld.org/bow/species/merlin/cur/introduction.> <doi:10.2173/bow.merlin.01> 

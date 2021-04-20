@@ -136,8 +136,7 @@ in years to come.
     -   Merlin Bird ID - has a library of bird calls, played Merlin bird
         calls through speaker for playback
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rVD8EnowIFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+![](https://www.youtube.com/watch?v=rVD8EnowIFo&list=PLZ2_6QlCQJ48qMw3ntyxAAvCKEJLAuSOx&index=1)
 
     -   JBL Clip 4 - small, rugged, weather resistant speaker with good audio range for performing playback
 
