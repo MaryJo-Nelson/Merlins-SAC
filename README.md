@@ -101,12 +101,45 @@ in years to come.
 
 -   Placed survey points 200m apart both east to west and north to south
 
+    -   Our speakers have a roughly 100m range and we didn’t want to
+        have the points so close that we would be pulling in the same
+        birds over and over
+
 -   Started in the furthest north west corner of each quadrant and
     placed points moving east, then row by row moving south
 
--   Each row is offset 50m east of the row directly north
+-   Each row is offset of the row directly north of it by 50m
+
+-   For some quadrants, this was fairly straight forward. For others we
+    had to get creative:
+
+    -   If the point landed somewhere that is inaccessible to the
+        public, we moved it to the closest spot we could find withing a
+        roughly 10 meter radius (20-30m if we were desperate)
+
+    -   If there was no public location available within radius of the
+        point, then the point was omitted.
 
 <img src="Images/Screen Shot 2021-04-20 at 5.46.04 AM.png" width="700"/>
+
+#### In the Field
+
+-   While standing on a point, play Merlin call once in all directions
+    (north, west, south, and east), then wait approximately 30 seconds
+    for a response
+
+-   Technology used:
+
+    -   ArcGIS Field Maps - for moving to points and marking points of
+        interest
+
+    -   Merlin Bird ID - has a library of bird calls, played Merlin bird
+        calls through speaker for playback
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rVD8EnowIFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+    -   JBL Clip 4 - small, rugged, weather resistant speaker with good audio range for performing playback
 
 <img src="Images/Elise does playback.jpeg" width="500"/>
 
