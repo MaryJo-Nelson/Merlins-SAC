@@ -46,11 +46,15 @@ appear to prefer more tree dense areas for their nest sites, and rather
 than build their own nests, they use abandoned nests built by crows and
 hawks. Merlins have been known to nest in both conifer and deciduous
 trees, as well as on the ground and in cliffs, though in the northern
-great plains they appear to have a preference for conifer trees. Many
-Merlin nests have been reported in Spruce trees in North Dakota (Konrad
-et al. 2020). While breeding season typically runs from March to July,
-local lore suggests that breeding Merlins begin to arrive back to the
-area as early as February.
+great plains they appear to have a preference for conifer trees in urban
+settings (Warkentin et al 2020). Merlins were quite rare in Minnesota
+100 years ago when they were mainly found north of the border, but
+recently their breeding territory has been expanding south into the
+upper mid-west, helped by their claiming nests of other birds (Kondrad
+2020). Many Merlin nests have been reported in Spruce trees in North
+Dakota (Konrad et al. 2020). While breeding season typically runs from
+March to July, local lore suggests that breeding Merlins begin to arrive
+back to the area as early as February.
 
 Our ultimate goal for this spring is to find as many Merlin nest sites
 as possible and to create a database listing their locations as well as
@@ -80,6 +84,12 @@ in years to come.
         encompass the different types of environments in Moorhead
         (e.g. old neighborhoods, shopping centers, new neighborhoods,
         industrial areas).
+
+-   We used ArcGIS online to create a map with a layer for quadrants as
+    well as individual layers for the points we planned on adding later
+
+-   We used orange marks to show where we knew Merlins had already been
+    sighted this season or in the past
 
 ### Nest Surveys
 
@@ -124,11 +134,25 @@ in years to come.
 
 #### In the Field
 
--   While standing on a point, play Merlin call once in all directions
-    (north, west, south, and east), then wait approximately 30 seconds
-    for a response
+1.  Surveys are conducted in pairs in order to have more eyes and ears
+    looking out for possible responses
 
--   Technology used:
+2.  Record start time and recording being used
+
+3.  While standing on a point, and play Merlin call once in all
+    directions (north, west, south, and east), then wait approximately
+    30 seconds to a minute for a response (Merlins tend to respond right
+    away to a call)
+
+    -   
+
+4.  Mark Presence or Absence
+
+5.  If Presence, note other pertinent information (e.g. auditory
+    response, visual, male, female, pair, in flight, in tree, flight
+    path, etc.)
+
+    Technology used:
 
     -   ArcGIS Field Maps - for moving to points and marking points of
         interest
@@ -136,9 +160,8 @@ in years to come.
     -   Merlin Bird ID - has a library of bird calls, played Merlin bird
         calls through speaker for playback
 
-![](https://www.youtube.com/watch?v=rVD8EnowIFo&list=PLZ2_6QlCQJ48qMw3ntyxAAvCKEJLAuSOx&index=1)
-
-    -   JBL Clip 4 - small, rugged, weather resistant speaker with good audio range for performing playback
+    -   JBL Clip 4 - small, rugged, weather resistant speaker with good
+        audio range for performing playback
 
 <img src="Images/Elise does playback.jpeg" width="500"/>
 
@@ -148,9 +171,95 @@ Elise performs playback with the JBL Clip 4 and the Merlin Bird ID app.
 
 ## Progress and Results
 
+#### (We’re finding things!)
+
+So far we have surveyed quadrants 06, 08, 09, 11, and 12. Below is a map
+of all our findings thus far.
+
+-   Blue marks = nest sighted, but no evidence of Merlin activity
+
+-   Orange marks = Merlin sighted
+
+-   Green star = propable or confirmed nest
+
 ![](Images/Screen%20Shot%202021-04-20%20at%205.40.13%20AM.png)
 
+### Nest Surveys
+
+Due to busy schedules and lack of research assistants earlier in the
+year, we struggled to find time to do nest surveys. We only ended up
+surveying 2 quadrants for nests (09 and 11), with very few possible
+nests sighted, and we found it nearly impossible to see nests in conifer
+trees, where we predicted Merlins would most likely choose to nest. We
+have now done playback surveys at both quadrant 09 and quadrant 11 and
+have received no response near the nests that we marked during nest
+surveys.
+
+### Playback surveys
+
+-   With four field technicians, we are currently doing 4 to 6 surveys
+    per week!
+
+-   We have 2-2.5 hours scheduled per survey, however we have found that
+    we struggle to finish a quadrant in this time
+
+    -   When we receive no response, we spend roughly 5-7 minutes at
+        each point (including travel time between points). At about 20
+        points per quadrant, that’s over 2 hours of survey time.
+
+    -   However when we do receive a response, we typically end up
+        spending 15-30 minutes in that area, tracking and monitoring the
+        bird(s) and looking for the nest, making it harder to finish the
+        survey within the time frame.
+
+-   So far we have found at least one potential or confirmed nest in
+    each quadrant
+
 <img src="Images/Screen Shot 2021-04-18 at 8.44.50 PM.png" width="700"/>
+
+#### Patterns we’ve noticed so far:
+
+-   Every potential nest so far has been in a conifer tree, usually
+    toward the very top within 1 meter of the highest point
+
+-   Often, the female is in the nest tree and the male is “standing
+    guard” in a nearby deciduous tree
+
+-   Interestingly, most potential nest have been in louder/busier parts
+    of the neighborhood
+
+    -   All have been on, or within 50 meters of a busy street
+
+    -   In really quiet neighborhoods, we rarely get a response
+
+-   We also haven’t received any responses near the river corridor,
+    where we were expecting to see more activity
+
+### Nest Visits
+
+-   So far we have revisited 5 out of the 7 potential nest sites, and
+    have confirmed 3 nests with a Merlin pair present
+
+-   At the two unconfirmed nest sites:
+
+    -   Nests were definitely seen, but no Merlin activity was noted at
+        the time of the visit
+
+    -   However, both of these sites had an active pair present at the
+        time of the initial sighting during playback surveys, so these
+        are still promising nest sites!
+
+### Identifying Merlins
+
+-   Click [here](https://www.allaboutbirds.org/guide/Merlin/id) for a
+    great resource about identifying Merlins!
+
+-   Click [here](https://youtu.be/rVD8EnowIFo) to see a Merlin calling!
+
+![](Images/Merlin%20in%20Flight.jpg)
+
+*Photo:* [© Joel Trick \| Macaulay
+Library](https://macaulaylibrary.org/photo/63395691?__hstc=75100365.ddcb139e93d42216bf6d831d6f500629.1618923556898.1618923556898.1618923556898.1&__hssc=75100365.2.1618923556899&__hsfp=3027337724)
 
 <img src="Images/Valley Premiere Female.jpeg" width="350"/>
 
@@ -159,6 +268,8 @@ Elise performs playback with the JBL Clip 4 and the Merlin Bird ID app.
 A female (left) and a male (right) showing off their different colors.
 
 *Photos: MaryJo Nelson, April 2021*
+
+#### 
 
 <img src="Images/11-12 Male.jpeg" width="500"/>
 
@@ -194,7 +305,13 @@ binoculars is NOT EASY!
 
 3.  Data Analysis
 
-    -   
+    -   Compare environmental and tree data collected for each confirmed
+        nest to assess for patterns in Merlin nest site preference
+
+    -   Compare environmental data of where Presence was recorded
+        vs. where absence was recorded to develop a better understanding
+        of where Merlins choose to nest vs. where they choose not to
+        nest.
 
 ## References
 
