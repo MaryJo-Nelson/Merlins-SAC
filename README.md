@@ -89,11 +89,24 @@ in years to come.
 -   Walk or drive every accessible part of each quadrant looking for any
     and all visible nests
 
--   Use arcGIS
+-   Use arcGIS to mark locations of all visible nests
 
 ### Playback Surveys
 
 <img src="Images/Screen Shot 2021-04-18 at 8.07.04 PM.png" width="700"/>
+
+#### Survey Points:
+
+-   Each quadrant is roughly 800m x 800m
+
+-   Placed survey points 200m apart both east to west and north to south
+
+-   Started in the furthest north west corner of each quadrant and
+    placed points moving east, then row by row moving south
+
+-   Each row is offset 50m east of the row directly north
+
+<img src="Images/Screen Shot 2021-04-20 at 5.46.04 AM.png" width="700"/>
 
 <img src="Images/Elise does playback.jpeg" width="500"/>
 
@@ -102,6 +115,8 @@ Elise performs playback with the JBL Clip 4 and the Merlin Bird ID app.
 *Photo: MaryJo Nelson, April 2021*
 
 ## Progress and Results
+
+![](Images/Screen%20Shot%202021-04-20%20at%205.40.13%20AM.png)
 
 <img src="Images/Screen Shot 2021-04-18 at 8.44.50 PM.png" width="700"/>
 
