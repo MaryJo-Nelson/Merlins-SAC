@@ -58,6 +58,12 @@ Our ultimate goal for this spring is to find as many Merlin nest sites as possib
 
 -   Use arcGIS to mark locations of all visible nests
 
+    <img src="Images/IMG_3549.jpeg" alt="A known Merlin nest in conifer west of Eventide" width="350"/>
+
+    A known Merlin nest in a conifer tree west of Eventide
+
+    *Photo: MaryJo Nelson, April 2021*
+
 ### Playback Surveys
 
 <img src="Images/Screen Shot 2021-04-18 at 8.07.04 PM.png" width="700"/>
@@ -88,9 +94,7 @@ Our ultimate goal for this spring is to find as many Merlin nest sites as possib
 
 2.  Record start time and recording being used
 
-3.  While standing on a point, and play Merlin call once in all directions (north, west, south, and east), then wait approximately 30 seconds to a minute for a response (Merlins tend to respond right away to a call)
-
-    -   
+3.  While standing on a point, play Merlin call once in all directions (north, west, south, and east), then wait approximately 30 seconds to a minute for a response (Merlins tend to respond right away to a call)
 
 4.  Mark Presence or Absence
 
@@ -114,7 +118,13 @@ Elise performs playback with the JBL Clip 4 and the Merlin Bird ID app.
 
 #### (We're finding things!)
 
-So far we have surveyed quadrants 06, 08, 09, 11, and 12. Below is a map of all our findings thus far.
+<img src="Images/Eventide Male.jpeg" alt="Eventide male" width="350"/>
+
+A male perches in a deciduous tree west of Eventide
+
+*Photo: MaryJo Nelson, April 2021*
+
+**So far** we have surveyed quadrants 06, 08, 09, 11, and 12. Below is a map of all our findings thus far.
 
 -   Blue marks = nest sighted, but no evidence of Merlin activity
 
@@ -166,31 +176,11 @@ Due to busy schedules and lack of research assistants earlier in the year, we st
 
     -   However, both of these sites had an active pair present at the time of the initial sighting during playback surveys, so these are still promising nest sites!
 
-### Identifying Merlins
+<img src="Images/IMG_3556.jpeg" width="350"/>
 
--   Click [here](https://www.allaboutbirds.org/guide/Merlin/id) for a great resource about identifying Merlins!
+Here you can see the nest on the left side of the frame and the female on the right. Photo taken during a nest visit to suspected nest next to Valley Premiere Bank in south Moorhead.
 
--   Click [here](https://youtu.be/rVD8EnowIFo) to see a Merlin calling!
-
-![](Images/Merlin%20in%20Flight.jpg)
-
-*Photo:* [© Joel Trick \| Macaulay Library](https://macaulaylibrary.org/photo/63395691?__hstc=75100365.ddcb139e93d42216bf6d831d6f500629.1618923556898.1618923556898.1618923556898.1&__hssc=75100365.2.1618923556899&__hsfp=3027337724)
-
-<img src="Images/Valley Premiere Female.jpeg" width="350"/>
-
-<img src="Images/Covid Male.jpeg" width="350"/>
-
-A female (left) and a male (right) showing off their different colors.
-
-*Photos: MaryJo Nelson, April 2021*
-
-#### 
-
-<img src="Images/11-12 Male.jpeg" width="500"/>
-
-Attempting to capture images of Merlins on a phone and through binoculars is NOT EASY!
-
-*Photo: Elise Bakke, April 2021*
+*Photo: MaryJo Nelson, April 2021*
 
 ## What's Next?
 
@@ -215,6 +205,44 @@ Attempting to capture images of Merlins on a phone and through binoculars is NOT
     -   Compare environmental and tree data collected for each confirmed nest to assess for patterns in Merlin nest site preference
 
     -   Compare environmental data of where Presence was recorded vs. where absence was recorded to develop a better understanding of where Merlins choose to nest vs. where they choose not to nest.
+
+### Identifying Merlins
+
+-   Click [here](https://www.allaboutbirds.org/guide/Merlin/id) for a great resource about identifying Merlins!
+
+-   Click [here](https://youtu.be/rVD8EnowIFo) to see a Merlin calling!
+
+![](Images/Merlin%20in%20Flight.jpg)
+
+*Photo:* [© Joel Trick \| Macaulay Library](https://macaulaylibrary.org/photo/63395691?__hstc=75100365.ddcb139e93d42216bf6d831d6f500629.1618923556898.1618923556898.1618923556898.1&__hssc=75100365.2.1618923556899&__hsfp=3027337724)
+
+<img src="Images/Valley Premiere Female.jpeg" width="350"/>
+
+<img src="Images/Covid Male.jpeg" width="350"/>
+
+A female (top) and a male (bottom) showing off their different colors.
+
+*Photos: MaryJo Nelson, April 2021*
+
+#### 
+
+<img src="Images/11-12 Male.jpeg" width="500"/>
+
+Attempting to capture images of Merlins on a phone and through binoculars is NOT EASY!
+
+*Photo: Elise Bakke, April 2021*
+
+### If you see a Merlin around town, we would love to hear about it!
+
+-   Please email myself or Dr. Merkord with the date and location that you saw it, and we will add it to our database
+
+    -   maryjo.nelson\@go.minnesota.edu
+
+    -   chris.merkord\@mnstate.edu
+
+-   This will help us to know where more nests might be so that we can create the most extensive database possible of Merlin breeding sites in the area.
+
+Thank you for being engaged and learning more about this awesome project!
 
 ## References
 
